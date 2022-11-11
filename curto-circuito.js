@@ -18,4 +18,5 @@ function isOdd(n) {
     return n % 2 === 0 && `O número ${n} é par.`
 }
 
+
 console.log(isOdd(19))

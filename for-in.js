@@ -11,6 +11,7 @@ const obj = {
     propNull: null
 }
 
+
 for (let key in obj) {
     console.log(key) // chave
     console.log(obj[key]) // valor

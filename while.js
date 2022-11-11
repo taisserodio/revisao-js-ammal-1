@@ -16,6 +16,7 @@ const users = [
     }
 ]
 
+
 // se um array tem 10 elementos
 // a primeira posição é o 0
 // a última posição (décima) é o 9

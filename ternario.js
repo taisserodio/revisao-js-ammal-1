@@ -20,4 +20,5 @@ function getLetterPosition(letter) {
         : 7
 }
 
+
 console.log(getLetterPosition("d"))
